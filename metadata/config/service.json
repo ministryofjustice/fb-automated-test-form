@@ -3,6 +3,7 @@
   "_type": "config.service",
   "emailInputNameUser": "user_email_address",
   "name": "A form for automated testing",
+  "pdfHeading": "This is a PDF heading",
   "phase": "alpha",
   "phaseText": "This form is used for testing"
 }
