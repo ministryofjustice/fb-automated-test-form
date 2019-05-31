@@ -1,7 +1,0 @@
-{
-  "_id": "page.goodbye",
-  "_type": "page.exit",
-  "heading": "This is the end",
-  "lede": "Goodbye",
-  "url": "goodbye"
-}

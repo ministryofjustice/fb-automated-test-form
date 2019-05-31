@@ -9,7 +9,7 @@
     "page.some-questions",
     "page.dont-wish-to-continue",
     "page.check-answers",
-    "page.goodbye"
+    "page.final-confirmation"
   ],
   "url": "/"
 }
