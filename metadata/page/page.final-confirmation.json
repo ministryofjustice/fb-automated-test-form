@@ -2,5 +2,6 @@
   "_id": "page.final-confirmation",
   "_type": "page.confirmation",
   "heading": "All done!!",
+  "lede": "We'll email {user_email_address}",
   "url": "final-confirmation"
 }
