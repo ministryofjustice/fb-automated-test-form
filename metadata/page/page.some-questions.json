@@ -1,0 +1,23 @@
+{
+  "_id": "page.some-questions",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.some-questions--fileupload.auto_name__2",
+      "_type": "fileupload",
+      "label": "File Upload",
+      "maxFiles": 2,
+      "name": "auto_name__2",
+      "validation": {
+        "required": true
+      }
+    }
+  ],
+  "lede": "Thanks for doing this form",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__1"
+  },
+  "url": "some-questions"
+}

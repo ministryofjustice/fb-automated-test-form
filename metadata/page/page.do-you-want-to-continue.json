@@ -1,0 +1,27 @@
+{
+  "_id": "page.do-you-want-to-continue",
+  "_type": "page.singlequestion",
+  "components": [
+    {
+      "_id": "page.do-you-want-to-continue--radios.auto_name__1",
+      "_type": "radios",
+      "items": [
+        {
+          "_id": "page.do-you-want-to-continue--radios.auto_name__1--radio.auto_value__1",
+          "_type": "radio",
+          "label": "Yes - I want to continue",
+          "value": "auto_value__1"
+        },
+        {
+          "_id": "page.do-you-want-to-continue--radios.auto_name__1--radio.auto_value__2",
+          "_type": "radio",
+          "label": "No - Don't continue",
+          "value": "auto_value__2"
+        }
+      ],
+      "legend": "Do you want to continue?",
+      "name": "auto_name__1"
+    }
+  ],
+  "url": "do-you-want-to-continue"
+}

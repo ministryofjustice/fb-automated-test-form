@@ -1,0 +1,12 @@
+{
+  "_id": "page.dont-wish-to-continue",
+  "_type": "page.content",
+  "heading": "You have selected not to continue!",
+  "lede": "Thanks",
+  "show": {
+    "identifier": "auto_name__1",
+    "operator": "is",
+    "value": "auto_value__2"
+  },
+  "url": "dont-wish-to-continue"
+}
