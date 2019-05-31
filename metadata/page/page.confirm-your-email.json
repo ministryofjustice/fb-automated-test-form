@@ -1,0 +1,15 @@
+{
+  "_id": "page.confirm-your-email",
+  "_type": "page.form",
+  "components": [
+    {
+      "_id": "page.confirm-your-email--email.auto_name__3",
+      "_type": "email",
+      "label": "Your email address",
+      "name": "user_email_address"
+    }
+  ],
+  "heading": "Confirm your email",
+  "lede": "We'll email you a copy of your form contents",
+  "url": "confirm-your-email"
+}
