@@ -1,9 +1,11 @@
 {
   "_id": "service",
   "_type": "config.service",
+  "attachUserSubmission": true,
   "emailInputNameUser": "user_email_address",
   "name": "A form for automated testing",
   "pdfHeading": "This is a PDF heading",
   "phase": "alpha",
-  "phaseText": "This form is used for testing"
+  "phaseText": "This form is used for testing",
+  "_isa": "@ministryofjustice/fb-components-core=>service"
 }
