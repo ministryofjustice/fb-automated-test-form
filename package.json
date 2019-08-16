@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "@ministryofjustice/fb-components-core": "~3.0.0-2"
+  }
+}
